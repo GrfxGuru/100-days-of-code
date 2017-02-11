@@ -2,6 +2,13 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 39: February 10th, 2017
+
+**Today's Progress**: The Change log
+- Minor UI tweaks. Not a lot of time today to get things done.
+
+**Thoughts:** 
+
 ### Day 38: February 9th, 2017
 
 **Today's Progress**: The Change log
