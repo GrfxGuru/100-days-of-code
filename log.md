@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 40: February 11th, 2017
+
+**Today's Progress**: The Change log
+- Separate project work today, lots of HTML, CSS, and PHP on my own [peterwitham.com][2] web site.
+
+**Thoughts:** 
+I am finding the need to work on two projects as time demands. I feel this is OK within the scope of the 100 day project as it is still coding and falls within the specifications.
+
 ### Day 39: February 10th, 2017
 
 **Today's Progress**: The Change log
@@ -164,7 +172,7 @@ Not a lot of actual project code today, but a lot of reading on CoreData in prep
 **Today's Progress**: The Change log
 - Fixed some display issues for the master list when the device is in portrait mode.
 - When the application returns from the background it now corrects the interface display for the master list.
-- Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][2]
+- Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][3]
 
 **Thoughts:** 
 Always check both portrait and landscape modes for user interface problems. I had not noticed until today that the master list was not displaying automatically if the application started with the iPad in portrait mode.
@@ -375,4 +383,5 @@ I created the prototype cell for the master list, actually I created it twice si
 **Thoughts:** Not having taken part in this project before, I thought the set-up rules were pretty straight forward. Would be nice to have a clean Git history to start with, but not a big deal.
 
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
-[2]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
+[2]:	https://peterwitham.com
+[3]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
