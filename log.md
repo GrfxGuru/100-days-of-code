@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 41: February 12th, 2017
+
+**Today's Progress**: The Change log
+- Wired up the delete language button.
+- Tweaked refreshing of the language list after clearing, resetting, and deleting on the list management screen.
+
+**Thoughts:** 
+With just the adding of a language left to do for functionality, everything now turns to the look, feel, and user experience. Time to make more than standard layouts!
+
 ### Day 40: February 11th, 2017
 
 **Today's Progress**: The Change log
