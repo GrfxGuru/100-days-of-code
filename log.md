@@ -2,6 +2,16 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 42: February 13th, 2017
+
+**Today's Progress**: The Change log
+- Corrected dark theme colors for the navigation bars on remaining views for consistency.
+- Reset the master list to default lighter colors.
+- Removed icon from the main view for a cleaner look.
+- 
+**Thoughts:** 
+Theme colors are now consistent and cleaner.
+
 ### Day 41: February 12th, 2017
 
 **Today's Progress**: The Change log
