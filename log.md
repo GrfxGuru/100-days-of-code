@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 43: February 14th, 2017
+
+**Today's Progress**: The Change log
+- New languages can now be added in the language management screen.
+- 
+**Thoughts:** 
+One last setting needs to be added to the new language list when adding a language, it needs to be resorted in to alphabetical order. I also need to set a proper ID for the new language to be used for future features.
+
 ### Day 42: February 13th, 2017
 
 **Today's Progress**: The Change log
