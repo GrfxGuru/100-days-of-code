@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 45: February 16th, 2017
+
+**Today's Progress**: The Change log
+- Fixed some button sizing and placement problems on language management screen in portrait device view.
+- More changes to the theming as I explore some design ideas.
+
+**Thoughts:** 
+
 ### Day 44: February 15th, 2017
 
 **Today's Progress**: The Change log
