@@ -2,6 +2,13 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 46: February 17th, 2017
+
+**Today's Progress**: The Change log
+- Massive overhaul of the look, a more uniformed design with the intent to be easier on the eye in lower light levels.
+
+**Thoughts:** 
+
 ### Day 45: February 16th, 2017
 
 **Today's Progress**: The Change log
