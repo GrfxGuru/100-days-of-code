@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 47: February 18th, 2017
+
+**Today's Progress**: The Change log
+- Updated screenshot in repository.
+- 
+**Thoughts:** 
+I failed today, all I managed to get done today is to update the screenshot on the repository. I failed to find the time to code for personal reasons today.
+
 ### Day 46: February 17th, 2017
 
 **Today's Progress**: The Change log
