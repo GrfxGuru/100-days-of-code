@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 48: February 19th, 2017
+
+**Today's Progress**: The Change log
+- Rebuilt the language list table on the management screen to fix some layout issues.
+
+
+**Thoughts:** 
+Increasingly some tasks are taking more than a one day sessions to complete, I expected this as I moved in to new areas like searching and filtering data sets.
+
 ### Day 47: February 18th, 2017
 
 **Today's Progress**: The Change log
