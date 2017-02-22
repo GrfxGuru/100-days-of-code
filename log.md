@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 49: February 21th, 2017
+
+**Today's Progress**: The Change log
+- Minor code clean up and a couple of attempts to sort CoreData results.
+
+**Thoughts**
+I have decided to start a side project from the application code to better explore CoreData sorting and filtering as I am not making the progress at a speed I would like.
+
 ### Day 48: February 19th, 2017
 
 **Today's Progress**: The Change log
