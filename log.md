@@ -2,7 +2,16 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
-### Day 50: February 22th, 2017
+### Day 51: February 23rd, 2017
+
+**Today's Progress**: The Change log
+- More learning about Vapor the serverside Swift framework [https://vapor.codes/](https://vapor.codes/)
+- Created a project to play around with what I have been reading about.
+
+**Thoughts**
+
+
+### Day 50: February 22nd, 2017
 
 **Today's Progress**: The Change log
 - Started learning about Vapor the serverside Swift framework [https://vapor.codes/](https://vapor.codes/)
@@ -10,7 +19,7 @@
 **Thoughts**
 I had wanted to look into serverside Swift for a while, Vapor is the perfect way for me to start taking my web development skills and combining them with Swift. So far, I'm loving this framework.
 
-### Day 49: February 21th, 2017
+### Day 49: February 21st, 2017
 
 **Today's Progress**: The Change log
 - Minor code clean up and a couple of attempts to sort CoreData results.
