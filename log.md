@@ -2,6 +2,22 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 53: February 25th, 2017
+
+**Today's Progress**: The Change log
+- More PHP, CSS, and JavaScript today.
+
+**Thoughts**
+Sometimes side projects take more time than allowed for, but they still need to be done.
+
+### Day 52: February 24th, 2017
+
+**Today's Progress**: The Change log
+- Side project today, WordPress theme design using CSS, PHP, and JavaScript.
+
+**Thoughts**
+WordPress is a dream platform to get a site up and running fast. It gives me a chance to care about the design more than having to build a platform and then start work.
+
 ### Day 51: February 23rd, 2017
 
 **Today's Progress**: The Change log
