@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 54: February 28th, 2017
+
+**Today's Progress**: The Change log
+- Added ability to swipe to the left on a note in the list view to delete it.
+
+**Thoughts**
+After a few days of Internet problems, I am back on the path to 100 days!
+
 ### Day 53: February 25th, 2017
 
 **Today's Progress**: The Change log
