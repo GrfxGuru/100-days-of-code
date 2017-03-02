@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 55: March 1st, 2017
+
+**Today's Progress**: The Change log
+- Added alert dialog to swipe delete of a note. Uses the same setting as note deletion.
+- Initial work on the overlay design for first run user on-boarding started.
+
+**Thoughts**
+Small changes to a UI can change the experience dramatically, I always intended to add the ability to swipe on the note list. Now felt like the right time to add it.
+
 ### Day 54: February 28th, 2017
 
 **Today's Progress**: The Change log
