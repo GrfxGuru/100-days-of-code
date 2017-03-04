@@ -2,6 +2,17 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 57: March 3rd, 2017
+
+**Today's Progress**: The Change log
+- JavaScript coding using Jquery and a little splash of classic.
+
+
+### Day 56: March 2nd, 2017
+
+**Today's Progress**: The Change log
+- Backend PHP work today on processing data for a project not related to my iOS application.
+
 ### Day 55: March 1st, 2017
 
 **Today's Progress**: The Change log
