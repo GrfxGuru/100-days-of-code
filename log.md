@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 58: March 5th, 2017
+
+**Today's Progress**: The Change log
+- Cocoapods learning with Swift 3.
+
+**Thoughts**
+I had yet to use Cocoapods with Swift 3, I have used it before with previous versions. But wanted to explore a couple of layout frameworks that needed to use Cocoapods.
+
 ### Day 57: March 3rd, 2017
 
 **Today's Progress**: The Change log
