@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 59: March 6th, 2017
+
+**Today's Progress**: The Change log
+- Mocha and Chia JavaScript testing learning
+
+**Thoughts**
+I spent time today with something I had always wanted to read up on but never seem to take the time. JavaScript testing, I was quite impressed with the common sense approach to using Mocha. It turned out to be easier than it looked I am happy to say, and something I will consider using going forward.
+
 ### Day 58: March 5th, 2017
 
 **Today's Progress**: The Change log
