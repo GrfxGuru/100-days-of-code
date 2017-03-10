@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 60: March 9th, 2017
+
+**Today's Progress**: The Change log
+- Lots of learning today via reading
+
+**Thoughts**
+Today I wanted to take a look at a logging library called [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack), in order for me to do that I also decided to try using [Carthage](https://github.com/Carthage/Carthage) instead of CocoaPods. So that mean't even more reading and learning.
+
+
 ### Day 59: March 6th, 2017
 
 **Today's Progress**: The Change log
