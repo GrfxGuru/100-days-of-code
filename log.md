@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 61: March 10th, 2017
+
+**Today's Progress**: The Change log
+- Playing with NSNotificationCenter
+
+**Thoughts**
+An interesting way to send communication around inside an application. I am considering using this as a replacement for some code in my notes application, mainly because as I look at my code I feel there is a need to refactor out some of the bloat.
+
 ### Day 60: March 9th, 2017
 
 **Today's Progress**: The Change log
