@@ -2,6 +2,15 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 62: March 19th, 2017
+
+**Today's Progress**: The Change log
+- Added Evergreen logging framework
+- Added debug log statements to all major functionality
+
+**Thoughts**
+After taking a week off due to work load and a general level of burnout, I selected a logging framework and have added it to the application to aid debugging.
+
 ### Day 61: March 10th, 2017
 
 **Today's Progress**: The Change log
