@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 63: March 21st, 2017
+
+**Today's Progress**: The Change log
+- Added copy and paste buttons to the note screen to interact with the iOS clipboard.
+
+**Thoughts**
+I realized I had neglected to give a way to copy the code note contents to the OS clipboard, so I added the ability to both copy and paste. The paste needs a little more work still though to be truly useful.
+
 ### Day 62: March 19th, 2017
 
 **Today's Progress**: The Change log
