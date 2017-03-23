@@ -2,6 +2,16 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 64: March 22nd, 2017
+
+**Today's Progress**: The Change log
+- Moved paste button to the editor view.
+- Added a clear button to the editor view.
+- Added attribution for the Evergreen logging framework [https://github.com/knly/Evergreen](https://github.com/knly/Evergreen)
+
+**Thoughts**
+I had the paste button on a view only screen, that was bad :). I also forgot to added the attribution for the logging framework back on **Day 62**.
+
 ### Day 63: March 21st, 2017
 
 **Today's Progress**: The Change log
