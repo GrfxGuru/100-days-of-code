@@ -2,12 +2,20 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 65: March 23rd, 2017
+
+**Today's Progress**: The Change log
+- Attention starts to move towards clean-up and bugs.
+
+**Thoughts**
+At this point in the development, I feel the need to start getting feedback on bugs and refinement. Not sure yet how to go about getting outside testers, but I am going to start looking into it.
+
 ### Day 64: March 22nd, 2017
 
 **Today's Progress**: The Change log
 - Moved paste button to the editor view.
 - Added a clear button to the editor view.
-- Added attribution for the Evergreen logging framework [https://github.com/knly/Evergreen](https://github.com/knly/Evergreen)
+- Added attribution for the Evergreen logging framework [https://github.com/knly/Evergreen][2]
 
 **Thoughts**
 I had the paste button on a view only screen, that was bad :). I also forgot to added the attribution for the logging framework back on **Day 62**.
@@ -43,7 +51,7 @@ An interesting way to send communication around inside an application. I am cons
 - Lots of learning today via reading
 
 **Thoughts**
-Today I wanted to take a look at a logging library called [CocoaLumberjack](https://github.com/CocoaLumberjack/CocoaLumberjack), in order for me to do that I also decided to try using [Carthage](https://github.com/Carthage/Carthage) instead of CocoaPods. So that mean't even more reading and learning.
+Today I wanted to take a look at a logging library called [CocoaLumberjack][3], in order for me to do that I also decided to try using [Carthage][4] instead of CocoaPods. So that mean't even more reading and learning.
 
 
 ### Day 59: March 6th, 2017
@@ -109,7 +117,7 @@ WordPress is a dream platform to get a site up and running fast. It gives me a c
 ### Day 51: February 23rd, 2017
 
 **Today's Progress**: The Change log
-- More learning about Vapor the serverside Swift framework [https://vapor.codes/](https://vapor.codes/)
+- More learning about Vapor the serverside Swift framework [https://vapor.codes/][5]
 - Created a project to play around with what I have been reading about.
 
 **Thoughts**
@@ -118,7 +126,7 @@ WordPress is a dream platform to get a site up and running fast. It gives me a c
 ### Day 50: February 22nd, 2017
 
 **Today's Progress**: The Change log
-- Started learning about Vapor the serverside Swift framework [https://vapor.codes/](https://vapor.codes/)
+- Started learning about Vapor the serverside Swift framework [https://vapor.codes/][6]
 
 **Thoughts**
 I had wanted to look into serverside Swift for a while, Vapor is the perfect way for me to start taking my web development skills and combining them with Swift. So far, I'm loving this framework.
@@ -144,7 +152,7 @@ Increasingly some tasks are taking more than a one day sessions to complete, I e
 
 **Today's Progress**: The Change log
 - Updated screenshot in repository.
-- 
+\- 
 **Thoughts:** 
 I failed today, all I managed to get done today is to update the screenshot on the repository. I failed to find the time to code for personal reasons today.
 
@@ -187,7 +195,7 @@ One last setting needs to be added to the new language list when adding a langua
 - Corrected dark theme colors for the navigation bars on remaining views for consistency.
 - Reset the master list to default lighter colors.
 - Removed icon from the main view for a cleaner look.
-- 
+\- 
 **Thoughts:** 
 Theme colors are now consistent and cleaner.
 
@@ -203,7 +211,7 @@ With just the adding of a language left to do for functionality, everything now 
 ### Day 40: February 11th, 2017
 
 **Today's Progress**: The Change log
-- Separate project work today, lots of HTML, CSS, and PHP on my own [peterwitham.com][2] web site.
+- Separate project work today, lots of HTML, CSS, and PHP on my own [peterwitham.com][7] web site.
 
 **Thoughts:** 
 I am finding the need to work on two projects as time demands. I feel this is OK within the scope of the 100 day project as it is still coding and falls within the specifications.
@@ -370,7 +378,7 @@ Not a lot of actual project code today, but a lot of reading on CoreData in prep
 **Today's Progress**: The Change log
 - Fixed some display issues for the master list when the device is in portrait mode.
 - When the application returns from the background it now corrects the interface display for the master list.
-- Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][3]
+- Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][8]
 
 **Thoughts:** 
 Always check both portrait and landscape modes for user interface problems. I had not noticed until today that the master list was not displaying automatically if the application started with the iPad in portrait mode.
@@ -581,5 +589,10 @@ I created the prototype cell for the master list, actually I created it twice si
 **Thoughts:** Not having taken part in this project before, I thought the set-up rules were pretty straight forward. Would be nice to have a clean Git history to start with, but not a big deal.
 
 [1]:	https://github.com/GrfxGuru/CodeNotesForiOS
-[2]:	https://peterwitham.com
-[3]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
+[2]:	https://github.com/knly/Evergreen
+[3]:	https://github.com/CocoaLumberjack/CocoaLumberjack
+[4]:	https://github.com/Carthage/Carthage
+[5]:	https://vapor.codes/
+[6]:	https://vapor.codes/
+[7]:	https://peterwitham.com
+[8]:	https://itunes.apple.com/us/app/icon-slate/id439697913?mt=12
