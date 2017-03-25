@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 66: March 24th, 2017
+
+**Today's Progress**: The Change log
+- Installed and set-up AppCode.
+
+**Thoughts**
+Slight divergence today but still wrote code. I installed AppCode since it will refactor Swift, plus I’m a long time Intellij Idea user so wanted to see if it could improve my Swifting experience. Love that it has built in support for CocoaPods!
+
 ### Day 65: March 23rd, 2017
 
 **Today's Progress**: The Change log
