@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 67: March 25th, 2017
+
+**Today's Progress**: The Change log
+- Added a setting to give the user the option to paste and replace or paste and append from the clipboard to a notes content.
+
+**Thoughts**
+It is important to think through default settings for a user on first run. Some times they might not appear to be as obvious and helpful as you think.
+
 ### Day 66: March 24th, 2017
 
 **Today's Progress**: The Change log
