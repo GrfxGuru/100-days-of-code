@@ -2,6 +2,22 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 69: March 27th, 2017
+
+**Today's Progress**: The Change log
+- Added active attribution link and adjusted layout.
+
+**Thoughts**
+
+
+### Day 68: March 26th, 2017
+
+**Today's Progress**: The Change log
+- Added active links to the URL’s listed on the settings page.
+
+**Thoughts**
+Surprisingly harder than expected to add active URL’s to a text string, but found an elegant way to deal with the problem.
+
 ### Day 67: March 25th, 2017
 
 **Today's Progress**: The Change log
