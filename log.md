@@ -2,6 +2,24 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 71: April 1st, 2017
+
+**Today's Progress**: The Change log
+- Added a button on the note editing screen to enable the user to jump to the language management screen.
+- Renamed some storyboard view controllers to make for easier reading in Xcode.
+
+
+**Thoughts**
+
+### Day 70: March 30th, 2017
+
+**Today's Progress**: The Change log
+- Fixed a layout issue with the copy and paste buttons when the app is running in portrait mode.
+- Removed some commented out code used earlier in the project for handling the display of the master list.
+- Removed an old reference to the language list.
+- If the language list is empty, and you create a new note. The picker is not available and a prompt is displayed to add a language instead.
+**Thoughts**
+
 ### Day 69: March 27th, 2017
 
 **Today's Progress**: The Change log
