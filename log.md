@@ -2,12 +2,21 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 72: April 2nd, 2017
+
+**Today's Progress**: The Change log
+- Installed SwiftLint, found 400 problems. Fixed them.
+- Reworked the buttons on detail pages to button bars to clean up the interface.
+- Fixed yet more auto-constraint issues.
+
+**Thoughts**
+Whilst the code was running fine, it was good to see how far off from the latest standard practices it was. Now it is cleaner. I recommend using SwiftLint.
+
 ### Day 71: April 1st, 2017
 
 **Today's Progress**: The Change log
 - Added a button on the note editing screen to enable the user to jump to the language management screen.
 - Renamed some storyboard view controllers to make for easier reading in Xcode.
-
 
 **Thoughts**
 
