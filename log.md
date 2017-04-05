@@ -2,6 +2,23 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 74: April 4th, 2017
+
+**Today's Progress**: The Change log
+- Looking more at the portrait view experience and how I can improve it.
+
+**Thoughts**
+Originally I was only going to have the app run in landscape mode, but the more I use it, the more I see a benefit to portrait.
+
+### Day 73: April 3rd, 2017
+
+**Today's Progress**: The Change log
+- Spent time learning more about the use of constraints
+- Looked in to more ways for the first run experience
+
+**Thoughts**
+
+
 ### Day 72: April 2nd, 2017
 
 **Today's Progress**: The Change log
@@ -204,15 +221,15 @@ I have decided to start a side project from the application code to better explo
 - Rebuilt the language list table on the management screen to fix some layout issues.
 
 
-**Thoughts:** 
+**Thoughts:**
 Increasingly some tasks are taking more than a one day sessions to complete, I expected this as I moved in to new areas like searching and filtering data sets.
 
 ### Day 47: February 18th, 2017
 
 **Today's Progress**: The Change log
 - Updated screenshot in repository.
-\- 
-**Thoughts:** 
+\-
+**Thoughts:**
 I failed today, all I managed to get done today is to update the screenshot on the repository. I failed to find the time to code for personal reasons today.
 
 ### Day 46: February 17th, 2017
@@ -220,7 +237,7 @@ I failed today, all I managed to get done today is to update the screenshot on t
 **Today's Progress**: The Change log
 - Massive overhaul of the look, a more uniformed design with the intent to be easier on the eye in lower light levels.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 45: February 16th, 2017
 
@@ -228,7 +245,7 @@ I failed today, all I managed to get done today is to update the screenshot on t
 - Fixed some button sizing and placement problems on language management screen in portrait device view.
 - More changes to the theming as I explore some design ideas.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 44: February 15th, 2017
 
@@ -236,7 +253,7 @@ I failed today, all I managed to get done today is to update the screenshot on t
 - Empty strings can no longer be used for new languages. The dialog box will disappear but an entry will not be made.
 
 
-**Thoughts:** 
+**Thoughts:**
 
 
 ### Day 43: February 14th, 2017
@@ -245,7 +262,7 @@ I failed today, all I managed to get done today is to update the screenshot on t
 - New languages can now be added in the language management screen.
 
 
-**Thoughts:** 
+**Thoughts:**
 One last setting needs to be added to the new language list when adding a language, it needs to be resorted in to alphabetical order. I also need to set a proper ID for the new language to be used for future features.
 
 ### Day 42: February 13th, 2017
@@ -254,8 +271,8 @@ One last setting needs to be added to the new language list when adding a langua
 - Corrected dark theme colors for the navigation bars on remaining views for consistency.
 - Reset the master list to default lighter colors.
 - Removed icon from the main view for a cleaner look.
-\- 
-**Thoughts:** 
+\-
+**Thoughts:**
 Theme colors are now consistent and cleaner.
 
 ### Day 41: February 12th, 2017
@@ -264,7 +281,7 @@ Theme colors are now consistent and cleaner.
 - Wired up the delete language button.
 - Tweaked refreshing of the language list after clearing, resetting, and deleting on the list management screen.
 
-**Thoughts:** 
+**Thoughts:**
 With just the adding of a language left to do for functionality, everything now turns to the look, feel, and user experience. Time to make more than standard layouts!
 
 ### Day 40: February 11th, 2017
@@ -272,7 +289,7 @@ With just the adding of a language left to do for functionality, everything now 
 **Today's Progress**: The Change log
 - Separate project work today, lots of HTML, CSS, and PHP on my own [peterwitham.com][7] web site.
 
-**Thoughts:** 
+**Thoughts:**
 I am finding the need to work on two projects as time demands. I feel this is OK within the scope of the 100 day project as it is still coding and falls within the specifications.
 
 ### Day 39: February 10th, 2017
@@ -280,7 +297,7 @@ I am finding the need to work on two projects as time demands. I feel this is OK
 **Today's Progress**: The Change log
 - Minor UI tweaks. Not a lot of time today to get things done.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 38: February 9th, 2017
 
@@ -288,7 +305,7 @@ I am finding the need to work on two projects as time demands. I feel this is OK
 - Added a border to the adding / editing note content field.
 - Added a couple of TODO markers.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 37: February 8th, 2017
 
@@ -297,7 +314,7 @@ I am finding the need to work on two projects as time demands. I feel this is OK
 - Updated the readme file.
 - Researched filtering CoreData.
 
-**Thoughts:** 
+**Thoughts:**
 A little preparation today for thinking through a search system in the application. Experimented but not committed to the repository yet.
 
 Also worked in a web page for Github and added a screenshot to the code repository.
@@ -307,7 +324,7 @@ Also worked in a web page for Github and added a screenshot to the code reposito
 **Today's Progress**: The Change log
 - Wired up the language list on the management screen.
 
-**Thoughts:** 
+**Thoughts:**
 Delegation fun with Swift today, if you are interested in Swift, today's changes are a great way to learn how to add delegation for a table view to a UIViewController.
 
 
@@ -318,7 +335,7 @@ Delegation fun with Swift today, if you are interested in Swift, today's changes
 - Moved the language list reset and clear buttons to the language management screen.
 - Fixed a couple of navigation issues.
 
-**Thoughts:** 
+**Thoughts:**
 The list management screen turned out to be more awkward to layout than I had envisioned. This is a difficult but important screen. Here the user will manage everything language related, at the moment the controls are limited but I plan to expand these over time, so I am trying to take that in to account as I work on the version 1 of the layout.
 
 
@@ -327,14 +344,14 @@ The list management screen turned out to be more awkward to layout than I had en
 **Today's Progress**: The Change log
 - Started work on the language list management controls.
 
-**Thoughts:** 
+**Thoughts:**
 I have not yet decided on how the language list management screen is going to look, but for now I am certain of the controls it needs and will get them functional. It might not be the greatest looking screen, but it will sure keep the application functional and that is my goal right now.
 
 ### Day 33: February 4th, 2017
 
 **Today's Progress**: The Change log
 - You can now clear the language list and reset to a default containing 20 popular languages.
-**Thoughts:** 
+**Thoughts:**
 I am glad to feel this is shaping into a working application as I start to add some design and more useful features.
 
 ### Day 32: February 3rd, 2017
@@ -342,7 +359,7 @@ I am glad to feel this is shaping into a working application as I start to add s
 **Today's Progress**: The Change log
 - Converted the language data source for adding / editing a note to use the CoreData Entity.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 31: February 2nd, 2017
 
@@ -350,14 +367,14 @@ I am glad to feel this is shaping into a working application as I start to add s
 - Worked on a separate project today that required some HTML, CSS, and php work.
 - Fixed some portrait display bugs.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 30: February 1st, 2017
 
 **Today's Progress**: The Change log
 - Coverted the master list cells to a darker look.
 
-**Thoughts:** 
+**Thoughts:**
 Continued to convert to the darker theme look today. Not too much progress on anything else due to time constraints.
 
 ### Day 29: January 31st, 2017
@@ -366,7 +383,7 @@ Continued to convert to the darker theme look today. Not too much progress on an
 - **It’s all about the Data**
 	- Changed the navigation to a darker look.
 
-**Thoughts:** 
+**Thoughts:**
 Starting to change the look as I clean the app interface up. I have decided to go with a slightly darker look, since most of the time I find developers working in a low light environment.
 
 ### Day 28: January 30th, 2017
@@ -377,7 +394,7 @@ Starting to change the look as I clean the app interface up. I have decided to g
 	- Added button to reset language list using CoreData. Not yet enabled in UI picker.
 	- Added Language List entity to CoreData.
 
-**Thoughts:** 
+**Thoughts:**
 Played with a few ideas for the language management today. Have not decided how the interface will work yet, but expect to make a decision tomorrow for at least a version 1.
 
 ### Day 27: January 29th, 2017
@@ -389,7 +406,7 @@ Played with a few ideas for the language management today. Have not decided how 
 	- Adding a new note now sends the right index for display to the add/edit note view.
 	- Fixed an issue where adding/editing a note and saving it would create a new copy rather than update the existing.
 
-**Thoughts:** 
+**Thoughts:**
 Next time I create an application that I intend to use CoreData for storage, I will do so from the beginning rather than factor it in later. I feel it took more effort than it should, but that’s the point of learning right?
 
 ### Day 26: January 28th, 2017
@@ -403,7 +420,7 @@ Next time I create an application that I intend to use CoreData for storage, I w
 	- Deleting a note now removes from CoreData data source.
 	- Editing a note now works with CoreData data source.
 
-**Thoughts:** 
+**Thoughts:**
 Yes CoreData can be a real pain, but once you understand how it wants you to work it really is not that bad. Mind you, I’m not using sync or anything fancy at this time.
 
 ### Day 25: January 27th, 2017
@@ -412,7 +429,7 @@ Yes CoreData can be a real pain, but once you understand how it wants you to wor
 - Removed CoreData branch, planning to start again with this rather than patch into existing data source.
 - Added a button to reset the database (remove all notes).
 
-**Thoughts:** 
+**Thoughts:**
 While researching CoreData, I have come across many different ways to use it. At this time I am not sure which I agree with the most, therefore I am trying a few different ways of using it before settling on one method.
 
 ### Day 24: January 26th, 2017
@@ -420,7 +437,7 @@ While researching CoreData, I have come across many different ways to use it. At
 **Today's Progress**: The Change log
 - Continued reading into CoreData.
 
-**Thoughts:** 
+**Thoughts:**
 More CoreData exploration and model planning.
 
 ### Day 23: January 25th, 2017
@@ -429,7 +446,7 @@ More CoreData exploration and model planning.
 - Added an icon to the settings page.
 - Continued reading into CoreData.
 
-**Thoughts:** 
+**Thoughts:**
 Not a lot of actual project code today, but a lot of reading on CoreData in preparation.
 
 ### Day 22: January 24th, 2017
@@ -439,7 +456,7 @@ Not a lot of actual project code today, but a lot of reading on CoreData in prep
 - When the application returns from the background it now corrects the interface display for the master list.
 - Designed and added an icon for the application. Used the excellent IconSlate tool. [App Store Link][8]
 
-**Thoughts:** 
+**Thoughts:**
 Always check both portrait and landscape modes for user interface problems. I had not noticed until today that the master list was not displaying automatically if the application started with the iPad in portrait mode.
 
 ### Day 21: January 23rd, 2017
@@ -447,7 +464,7 @@ Always check both portrait and landscape modes for user interface problems. I ha
 **Today's Progress**: The Change log
 - Played with CoreData some today as I think this will be my data source for the application.
 - Worked more on some Sketch designs.
-**Thoughts:** 
+**Thoughts:**
 CoreData has a reputation for being difficult, but I think if you approach it correctly, it can yield good results. I might change my mind later in the project, but for now this is the winner.
 
 ### Day 20: January 22nd, 2017
@@ -459,7 +476,7 @@ CoreData has a reputation for being difficult, but I think if you approach it co
 	- Quicker entry method.
 	- Will provide a data source for other users including filtering and searching.
 
-**Thoughts:** 
+**Thoughts:**
 I think the switch to using a picker for the language field will be far better in the long run as I bring other features online. There will also be a way to manage the language list including editing, adding, and deletion. This also serves as a great excuse to work with delegation in Swift.
 
 ### Day 19: January 21st, 2017
@@ -468,7 +485,7 @@ I think the switch to using a picker for the language field will be far better i
 - The application settings are now operational and stored.
 - The confirmation dialog for deleting a note can now be turned on or off in the user settings.
 
-**Thoughts:** 
+**Thoughts:**
 A good day, the application settings are now working and ready for any other options I might put in there. I am considering a dark/light interface setting as that seems popular these days.
 
 ### Day 18: January 20th, 2017
@@ -477,7 +494,7 @@ A good day, the application settings are now working and ready for any other opt
 - The user can no longer edit text whilst on the view note screen.
 - Working with Sketch to design some better looking layouts now the functionality is coming together.
 
-**Thoughts:** 
+**Thoughts:**
 Sketch continues to be my tool for putting ideas together fast when it comes to layouts. I plan to design in the app and export to Xcode.
 
 ### Day 17: January 19th, 2017
@@ -488,7 +505,7 @@ Sketch continues to be my tool for putting ideas together fast when it comes to 
 - Added the option to either show or not show the note deletion confirmation alert, code still needs to be written to activate it.
 - Moved the settings view into a navigation controller for consistency.
 
-**Thoughts:** 
+**Thoughts:**
 I have spent most of my career working on user interfaces, and as I start to think about the designs and layout for this application, I am reminded again of all the little things you have to take in to consideration like deselecting something under a certain condition. For example, deselect any note that might be selected on the master list when going to the settings screen. Often these can be some of the most timing consuming things to deal with.
 
 ### Day 16: January 18th, 2017
@@ -497,7 +514,7 @@ I have spent most of my career working on user interfaces, and as I start to thi
 - You can now delete a note when viewing it.
 - Alert presentation of choice when deleting a note, you can either cancel or delete.
 
-**Thoughts:** 
+**Thoughts:**
 Interesting way to work when deleting something and showing an alert dialog. I first show the dialog and if you choose to delete, I remove the record, update the master list display, and then perform a segue that I attached to the view rather than a control on the screen.
 
 ### Day 15: January 17th, 2017
@@ -507,7 +524,7 @@ Interesting way to work when deleting something and showing an alert dialog. I f
 - When saving a new note, the note is now stored in the array and the master list is updated.
 - When going to the add / edit note screen, the note name is now selected by default ready to just start typing.
 
-**Thoughts:** 
+**Thoughts:**
 Starting work on the data handling proper, I have left test data in for now until persistent storage is implemented. An interesting way to throw data around and access it across the application is to use a singleton. I implemented it in the application delegate and create a reference in each of the views that need to work with the data.
 
 
@@ -516,7 +533,7 @@ Starting work on the data handling proper, I have left test data in for now unti
 **Today's Progress**: The Change log
 - Resolved my segue navigation issues with editing / adding a note.
 
-**Thoughts:** 
+**Thoughts:**
 Finally resolved my navigation issues with editing a new note, after clearing out the mess created, things now work as expected. I am still working on updating the data source and refreshing the detail list.
 
 ### Day 13: January 15th, 2017
@@ -524,7 +541,7 @@ Finally resolved my navigation issues with editing a new note, after clearing ou
 **Today's Progress**: The Change log
 - Refactored segue code yet again for the adding of a note.
 
-**Thoughts:** 
+**Thoughts:**
 I confess to being tired of trying to solve my segue \<\> viewController issues. I think I am going to have to make a test project to do nothing but study UINavigationController and segue code.
 
 ### Day 12: January 14th, 2017
@@ -532,7 +549,7 @@ I confess to being tired of trying to solve my segue \<\> viewController issues.
 **Today's Progress**: The Change log
 - Due to system issues I did not get to code today, but everything is ready to continue tomorrow.
 
-**Thoughts:** 
+**Thoughts:**
 
 ### Day 11: January 13th, 2017
 
@@ -540,7 +557,7 @@ I confess to being tired of trying to solve my segue \<\> viewController issues.
 - Refactored the adding of a new note to use the edit view.
 - Clicking the + on the list view now creates a new note on the list and selects it, this is then sent to the edit view.
 
-**Thoughts:** 
+**Thoughts:**
 Sometimes, when something appears to be causing you a lot of problems, this is a sign that you are approaching the solution the wrong way and need to think again. This was the case with adding a new note, after some thought and trial and error, I realized that I should create a blank note and then select and edit it rather than try to pass data and navigation around.
 
 ### Day 10: January 12th, 2017
@@ -548,7 +565,7 @@ Sometimes, when something appears to be causing you a lot of problems, this is a
 **Today's Progress**: The Change log
 - No file changes to the project today.
 
-**Thoughts:** 
+**Thoughts:**
 Today was pure trial and error regarding navigation techniques between views to find a method that gives me what I need and is resource friendly, hopefully the results will make it in to the app over the next few days.
 
 ### Day 9: January 11th, 2017
@@ -557,7 +574,7 @@ Today was pure trial and error regarding navigation techniques between views to 
 - Added the ‘add’ button to the new note screen and updated constraints.
 - When creating a new note it is now added to the data source.
 
-**Thoughts:** 
+**Thoughts:**
 Still working to refresh the master list after adding a new note, still need to return to the first detail screen after adding a new note.
 
 ### Day 8: January 10th, 2017
@@ -567,7 +584,7 @@ Still working to refresh the master list after adding a new note, still need to 
 - Added constraints for the editing and adding note views.
 - Updated the table view cell height.
 
-**Thoughts:** 
+**Thoughts:**
 - No clear decision yet on the data store. I do feel CoreData will be overkill and take a lot of implementation.
 
 ### Day 7: January 9th, 2017
@@ -578,7 +595,7 @@ Still working to refresh the master list after adding a new note, still need to 
 - Updated segue for displaying a note.
 - When selecting from the note list, it will now display the details.
 
-**Thoughts:** 
+**Thoughts:**
 Some times, in fact for me most times, the best way to deal with constraint problems is to remove them all and start again. Whilst Xcode storyboards go a long way to try and help you solve layout issues, there are times all it does is create problems.
 
 I had more trouble than I expected with the sending of the data across the segue when selecting a note from the list and displaying it. I have blogged and used the technique many times, but there are always the little gotcha’s. In this case I had to wrap the detail screen in a navigation controller to get it working properly, this was an oversight on my part and a lesson I will not soon forget.
@@ -591,7 +608,7 @@ I had more trouble than I expected with the sending of the data across the segue
 - Added constraints for the master list cell.
 - Started work on the constraints for the viewing of a note.
 
-**Thoughts:** 
+**Thoughts:**
 Anyone that has dealt with constraints in Xcode knows the pain of trying to get them right, so annoying to work with.
 
 ### Day 5: January 7th, 2017
@@ -602,7 +619,7 @@ Anyone that has dealt with constraints in Xcode knows the pain of trying to get 
 - Created a date formatter for general usage in the application.
 
 
-**Thoughts:** 
+**Thoughts:**
 I need to debug the conversation and display of the date object for each note list cell. For personal reasons I did not get as much done today as I would of liked.
 
 ### Day 4: January 6th, 2017
