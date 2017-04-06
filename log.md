@@ -2,6 +2,14 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 75: April 5th, 2017
+
+**Today's Progress**: The Change log
+- Reworking the CoreData code to make it more manageable for some planned features.
+
+**Thoughts**
+Often when working on projects, you'll find better ways to do things that make it worth stopping and refactoring even if it takes a few days.
+
 ### Day 74: April 4th, 2017
 
 **Today's Progress**: The Change log
