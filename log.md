@@ -2,6 +2,16 @@
 
 **Link to work project:** [https://github.com/GrfxGuru/CodeNotesForiOS][1]
 
+### Day 77: April 7th, 2017
+
+**Today's Progress**: The Change log
+- Still refactoring CoreData code. It's massive I tell you!
+
+### Day 76: April 6th, 2017
+
+**Today's Progress**: The Change log
+- More CoreData learning and planning for code refactoring.
+
 ### Day 75: April 5th, 2017
 
 **Today's Progress**: The Change log
